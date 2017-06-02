@@ -2,7 +2,7 @@
 
 ## Welcome to Broadbot (Alpha)!
 
-Built on the [Elastic Stack] (https://elastic.co/), Broadbot was designed with simplicity in mind. We want to give users insight to any malicious activity happening on their local machine and/or network, without needing the knowledge or spending the time putting everything together themselves.
+Built on the Elastic Stack (https://elastic.co/), Broadbot was designed with simplicity in mind. We want to give users insight to any malicious activity happening on their local machine and/or network, without needing the knowledge or spending the time putting everything together themselves.
 
 Broadbot is an opensource offering of Invinsec's SIEMaaS. Please visit our website for a full product breakdown.
 
