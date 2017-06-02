@@ -28,7 +28,7 @@ As of version 1.0.0 (ALPHA), the firewall module supports the following devices 
 Please note: This installer requires access to the Internet to download packages. An offline version may be provided in beta or other official releases.
 
 ### Microsoft Windows
-You can follow the instructions provides in this manual [Broadbot Installation Manual] [./documentation/Broadbot Installation Manual.pdf]
+You can follow the instructions provides in this manual [Broadbot Installation Manual] [/documentation/Broadbot Installation Manual.pdf]
 
 ### Centos/Debian:
 
