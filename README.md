@@ -27,7 +27,7 @@ As of version 1.0.0 (ALPHA), the firewall module supports the following devices 
 
 Please note: This installer requires access to the Internet to download packages. An offline version may be provided in beta or other official releases.
 
-You can find both Windows and Linux installation files in [this release](https://github.com/Invinsec/broadbot/releases) 
+## You can find both Windows and Linux installation files in [this release](https://github.com/Invinsec/broadbot/releases) 
 
 ### Microsoft Windows
 BroadBot has been tested on the following Windows Operating Systems:
