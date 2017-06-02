@@ -1,4 +1,4 @@
-# Broadbot - An opensource and modular SIEM.
+# Broadbot - An open source and modular SIEM.
 
 ## Welcome to Broadbot (Alpha)!
 
