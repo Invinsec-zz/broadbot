@@ -33,7 +33,7 @@ Please note: This installer requires access to the Internet to download packages
 ### Centos/Debian:
 
 
-`curl --silent https://gitlab.deeprecce.net/invinsec/Elk-Installer/raw/master/BB-Unix.tar.gz | tar xvz && bash BB-Unix-Install.sh`
+`curl --silent  | tar xvz && bash BB-Unix-Install.sh`
 
 
 That's pretty much it! To start using the included dashboards, point your browser to http://x.x.x.x:5601 or http://hostname:5601 (as instructed at the end of the installer).
