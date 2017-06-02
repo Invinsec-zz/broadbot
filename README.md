@@ -7,7 +7,7 @@ Built on the Elastic Stack (https://elastic.co/), Broadbot was designed with sim
 Broadbot is an opensource offering of Invinsec's SIEMaaS. Please visit our website for a full product breakdown.
 
 
-<img src="/images/ss1.JPG?raw=true" width="600"/> <img src="/images/ss2.JPG?raw=true" width="600"/> 
+<img src="/images/ss1.JPG?raw=true" width="400"/> <img src="/images/ss2.JPG?raw=true" width="400"/> 
 
 
 
