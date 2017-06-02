@@ -95,7 +95,7 @@ Navigate to the 'Management' tab and click on 'Index Patterns'
 
 ![Management1](/images/ss6.JPG?raw=true)
 
-Select the 'broadbot-*' index pattern and click on the 'refresh feilds' button as show below:
+Select the 'broadbot-*' index pattern and click on the 'refresh fields' button as show below:
 
 ![Management2](/images/ss7.JPG?raw=true)
 
