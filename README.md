@@ -47,7 +47,7 @@ We have created this installation procedure that will help you to install BroadB
 
 That's pretty much it! To start using the included dashboards, point your browser to http://x.x.x.x:5601 or http://hostname:5601 (as instructed at the end of the installer).
 
-Broadbot ships with one 'Firewall' Dashboard, which is what you are greated with upon accessing the above URL.
+Broadbot ships with one 'Firewall' Dashboard, which is what you are greeted with upon accessing the above URL.
 
 The installer also ships with a predefined configuration that is expecting firewalls logs in `/var/log/firewalltype.log`. This can be changed if required from `/etc/logstash/firewalls.conf`
 
