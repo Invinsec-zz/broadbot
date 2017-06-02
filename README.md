@@ -27,15 +27,17 @@ As of version 1.0.0 (ALPHA), the firewall module supports the following devices 
 
 Please note: This installer requires access to the Internet to download packages. An offline version may be provided in beta or other official releases.
 
+You can find both Windows and Linux installation files in [this release](https://github.com/Invinsec/broadbot/releases) 
+
 ### Microsoft Windows
 BroadBot has been tested on the following Windows Operating Systems:
 
-* Windows 7
+* Windows 7 Professional
 * Windows Server 2008 R2
 * Windows Server 2012 R2
-* Windows 10
+* Windows 10 Professional
 
-We have created this installation procedure that will help you to install BroadBot on Windows Operating Systems and we also added a troubleshooting section. You can access the [Broadbot Installation Manual](https://github.com/Invinsec/broadbot/blob/master/documentation/Broadbot%20Installation%20Manual.pdf "Installation Manual")for guidance.
+We have created this installation procedure that will help you to install BroadBot on Windows Operating Systems and we also added a troubleshooting section. You can access the [Broadbot Installation Manual](https://github.com/Invinsec/broadbot/blob/master/documentation/Broadbot%20Installation%20Manual.pdf "Installation Manual") for guidance.
 
 ### Centos/Debian:
 
