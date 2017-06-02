@@ -1,13 +1,13 @@
-# Broadbot - An opensource and modular SIEM.
+# Broadbot - An open source and modular SIEM.
 
 ## Welcome to Broadbot (Alpha)!
 
-Built on the [Elastic Stack] (https://elastic.co/), Broadbot was designed with simplicity in mind. We want to give users insight to any malicious activity happening on their local machine and/or network, without needing the knowledge or spending the time putting everything together themselves.
+Built on the Elastic Stack (https://elastic.co/), Broadbot was designed with simplicity in mind. We want to give users insight to any malicious activity happening on their local machine and/or network, without needing the knowledge or spending the time putting everything together themselves.
 
 Broadbot is an opensource offering of Invinsec's SIEMaaS. Please visit our website for a full product breakdown.
 
 
-<img src="/images/ss1.JPG?raw=true" width="600"/> <img src="/images/ss2.JPG?raw=true" width="600"/> 
+<img src="/images/ss1.JPG?raw=true" width="400"/> <img src="/images/ss2.JPG?raw=true" width="400"/> 
 
 
 
@@ -27,13 +27,22 @@ As of version 1.0.0 (ALPHA), the firewall module supports the following devices 
 
 Please note: This installer requires access to the Internet to download packages. An offline version may be provided in beta or other official releases.
 
-### Microsoft Windows
+## You can find both Windows and Linux installation files in [this release](https://github.com/Invinsec/broadbot/releases) 
 
+### Microsoft Windows
+BroadBot has been tested on the following Windows Operating Systems:
+
+* Windows 7 Professional
+* Windows Server 2008 R2
+* Windows Server 2012 R2
+* Windows 10 Professional
+
+We have created this installation procedure that will help you to install BroadBot on Windows Operating Systems and we also added a troubleshooting section. You can access the [Broadbot Installation Manual](https://github.com/Invinsec/broadbot/blob/master/documentation/Broadbot%20Installation%20Manual.pdf "Installation Manual") for guidance.
 
 ### Centos/Debian:
 
 
-`curl --silent https://gitlab.deeprecce.net/invinsec/Elk-Installer/raw/master/BB-Unix.tar.gz | tar xvz && bash BB-Unix-Install.sh`
+`curl --silent https://github.com/Invinsec/broadbot/releases/download/v1.0/BB-Unix.tar.gz | tar xvz && bash BB-Unix-Install.sh`
 
 
 That's pretty much it! To start using the included dashboards, point your browser to http://x.x.x.x:5601 or http://hostname:5601 (as instructed at the end of the installer).
